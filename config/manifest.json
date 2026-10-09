@@ -1,0 +1,29 @@
+{
+  "assembly_version": 1,
+  "dataset_id": "bChaBas1",
+  "scientific_name": "Chrysococcyx basalis",
+  "taxon_id": 196523,
+  "busco_odb10_dataset_name": "aves",
+  "busco_odb12_dataset_name": "aves",
+  "ncbi_class": "Aves",
+  "hic_motif": "GATC,GANTC,CTNAG,TTAA",
+  "mitochondrial_genetic_code_id": 2,
+  "mitohifi_reference_species": "Chrysococcyx russatus",
+  "oatk_hmm_name": "aves",
+  "augustus_dataset_name": "tiberius_model_cfg:vertebrates.yaml",
+  "genetic_code_id": 1,
+  "assembly_id": "dcea2666-14be-4655-85c7-889625426861",
+  "read_files": [
+    {
+      "name": "bpa-avian-pacbio-hifi-612323-m84118_260413_013134_s1",
+      "data_type": "PACBIO_SMRT",
+      "base_url": "https://downloads-qcif.bioplatforms.com/bpa/avian_staging/pacbio-hifi/BPAOPS-2057/20260413_AVIAN_BRF_m84118_260413_013134_s1/",
+      "single_end": [
+        {
+          "url": "https://data.bioplatforms.com/dataset/bpa-avian-pacbio-hifi-612323-m84118_260413_013134_s1/resource/bc34e2c1e14973b54d20f07e4f821133/download/612323_AVIAN_BRF_m84118_260413_013134_s1.hifi_reads.bc2095.bam",
+          "md5sum": "bc34e2c1e14973b54d20f07e4f821133"
+        }
+      ]
+    }
+  ]
+}

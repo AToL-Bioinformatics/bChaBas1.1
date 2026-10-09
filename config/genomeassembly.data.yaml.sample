@@ -1,0 +1,5 @@
+
+- id: bChaBas1
+  platform: pacbio_hifi
+  reads:
+    - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-avian-pacbio-hifi-612323-m84118_260413_013134_s1.fastq.gz

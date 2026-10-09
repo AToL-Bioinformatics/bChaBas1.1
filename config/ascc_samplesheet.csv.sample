@@ -1,0 +1,4 @@
+sample,assembly_type,assembly_file
+bChaBas1.1,PRIMARY,${PWD}/results/genomeassembly/bChaBas1.1/bChaBas1.1.pacbio_hifi.purged/purging/asm.purged.fa.gz
+bChaBas1.1,HAPLO,${PWD}/results/genomeassembly/bChaBas1.1/bChaBas1.1.pacbio_hifi.purged/purging/asm.htigs.all.fa.gz
+bChaBas1.1,MITO,${PWD}/results/genomeassembly/bChaBas1.1/bChaBas1.1.pacbio_hifi.purged/mito/final_mitogenome.fasta
